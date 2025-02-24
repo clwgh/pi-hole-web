@@ -71,7 +71,7 @@
                         <i class="fa fa-fw menu-icon fa-shield-alt"></i> <span>Lists
                         <span class="pull-right-container">
                             <span class="label bg-blue pull-right" id="num_lists" title="Number of subscribed and enabled lists"></span>
-                            <span class="label bg-yellow pull-right" id="num_gravity" title="Total number of domains subscribed by your Pi-hole"></span>
+                            <span class="label bg-green pull-right" id="num_gravity" title="Total number of domains subscribed by your Pi-hole"></span>
                         </span>
                     </a>
                 </li>
